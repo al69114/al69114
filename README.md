@@ -23,12 +23,10 @@ Autonomous AI-driven DevOps agent enforcing secure bank coding standards and opt
 - Integrated intelligent merge-conflict resolution with human-in-the-loop validation, eliminating manual reconciliations
 - Developed a Jira Model Context Protocol (MCP) integration to monitor branch health and automatically log pull-request audits, improving release efficiency by 30%
 
-### 🔹 [ASL Quick-Draw — Clemson Hacks (CUhackit) Winner]((https://asl-quick-draw-1.onrender.com/))
-*1st Place Winner — AI Track (February 2026)*  
-Real-time gamified American Sign Language learning platform connecting computer vision with competitive multiplayer mechanics.
-- Built real-time gesture recognition pipeline utilizing Google Gemini 2.5 Pro Vision API and MediaPipe for sub-second sign classification
-- Implemented full-stack interactive client with React, TypeScript, Vite, Tailwind CSS, WebRTC live video streams, and Socket.IO events
-- Engineered FastAPI and python-socketio backend featuring a custom Elo-based matchmaking engine with dynamic range expansion
+### 🔹 [ASL Quick Draw](https://devpost.com/software/asl-quick-draw)
+* Real-time Wild West duel web application designed to gamify and accelerate American Sign Language learning.
+- Implemented computer vision gesture recognition to detect and evaluate user hand signs in real time
+- Developed multiplayer duel mechanics tracking speed, accuracy, and player progress
 
 ### 🔹 Marici NGO Ads Agent & Vision Compliance System
 *AI / Machine Learning Engineering (2026)*  
