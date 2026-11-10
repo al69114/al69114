@@ -43,7 +43,7 @@ Interactive handheld synthesizer enabling real-time electronic sound synthesis a
 - Built custom embedded hardware architecture around an ESP32-WROVER core with integrated speaker in a 3D-printed chassis
 - Programmed embedded breadboard control logic in C++ via Arduino and integrated audio synthesis using the Mozzi API
 
-### 🔹 Kitchen Spatial & Image Analysis Pipeline
+### 🔹 Kitchen Image Analysis Project
 *Spatial Perception & Storage Indexing (August 2025)*  
 - Built an object detection pipeline using Python and YOLO12 to generate bounding boxes and confidence scores from household imagery
 - Implemented human-in-the-loop verification via editable JSON schemas for detection correction and storage descriptions
