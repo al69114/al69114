@@ -23,7 +23,7 @@ Autonomous AI-driven DevOps agent enforcing secure bank coding standards and opt
 - Integrated intelligent merge-conflict resolution with human-in-the-loop validation, eliminating manual reconciliations
 - Developed a Jira Model Context Protocol (MCP) integration to monitor branch health and automatically log pull-request audits, improving release efficiency by 30%
 
-### 🔹 [ASL Quick-Draw — Clemson Hacks (CUhackit) Winner](https://github.com/al69114)
+### 🔹 [ASL Quick-Draw — Clemson Hacks (CUhackit) Winner]((https://asl-quick-draw-1.onrender.com/))
 *1st Place Winner — AI Track (February 2026)*  
 Real-time gamified American Sign Language learning platform connecting computer vision with competitive multiplayer mechanics.
 - Built real-time gesture recognition pipeline utilizing Google Gemini 2.5 Pro Vision API and MediaPipe for sub-second sign classification
@@ -37,9 +37,9 @@ Automated ad campaign orchestration and multimodal compliance verification deplo
 - Built local NLP classification models generating 65% more competitive keywords, using Google Gemini as a multi-stage LLM Judge
 - Designed a two-stage media auditing system using Gemini Multimodal Vision to validate video and image assets against strict NGO dignity standards prior to live bidding
 
-### 🔹 Banjovi — UGAHacks X First Prize (Hardware Track)
-*1st Place Winner — Hardware Category (February 2025)*  
-Interactive handheld synthesizer enabling real-time electronic sound synthesis and audio manipulation.
+### 🔹 [Banjovi — UGAHacks X First Prize (Hardware Track)](https://devpost.com/software/banjovi-by-the-4-idiots)
+* 1st Place Winner — Hardware Category (February 2025) *
+* Interactive handheld synthesizer enabling real-time electronic sound synthesis and audio manipulation.
 - Built custom embedded hardware architecture around an ESP32-WROVER core with integrated speaker in a 3D-printed chassis
 - Programmed embedded breadboard control logic in C++ via Arduino and integrated audio synthesis using the Mozzi API
 
