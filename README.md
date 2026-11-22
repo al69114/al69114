@@ -63,6 +63,14 @@ Automated ad campaign orchestration and multimodal compliance verification deplo
 - Optimized frame ingestion using MediaPipe with adaptive landmark validation, aspect-ratio constraints, and variance filtering
 - Fine-tuned custom classification models in Roboflow to minimize false positives in high-variance tracking environments
 
+### NASA L'SPACE Mission Concept Academy — Command and Data Handling Engineer
+*Remote • September 2025 – November 2025*
+- Engineered the Command and Data Handling (CDH) architecture for the Nova Aeros Martian cave exploration rover using NASA JPL’s component-driven F' (F Prime) flight software framework in C++
+- Designed an autonomous onboard system leveraging edge AI models (Gemma 3, Roboflow, and Gemini API) to perform real-time Martian cave environment learning and object detection
+- Implemented fault detection, isolation, and recovery (FDIR) telemetry monitors and CCSDS-compliant command dispatching using core F' components to maintain rover health
+- Authored sub-system requirements, link budget analyses, and pinout schedules for the core onboard computer and science payload instruments during Preliminary Design Reviews
+
+
 ### Fiserv — Software Engineer Intern (Issuer Admin SMB Portal)
 *Alpharetta, GA • June 2025 – August 2025*
 - Engineered client onboarding workflows for Money Network cards, delivering 95% of sales volume through the SMB portal
