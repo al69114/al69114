@@ -23,6 +23,13 @@ Autonomous AI-driven DevOps agent enforcing secure bank coding standards and opt
 - Integrated intelligent merge-conflict resolution with human-in-the-loop validation, eliminating manual reconciliations
 - Developed a Jira Model Context Protocol (MCP) integration to monitor branch health and automatically log pull-request audits, improving release efficiency by 30%
 
+### 🔹 Data Science/ Machine Learning II Project
+* Machine Learning (November 2026)*
+- Analyzed 473,328 hourly air-quality records from six global cities in 2023 and 12 Beijing monitoring stations from 2013–2017 to forecast fine-particle pollution (PM2.5 concentration, measured in µg/m³) 1, 6, and 24 hours ahead.
+- Used Python, pandas, and NumPy to examine pollution patterns and evaluate forecasting inputs. For Global day-ahead forecasts, five PM2.5 features reduced linear regression’s validation error by 5.7% compared with all 14 predictors.
+- Compared 10 forecasting methods using scikit-learn, statsmodels, and PyTorch: four regression models, ARIMA, SARIMA, random forest, a three-layer neural network, and two baselines. Evaluated each method using RMSE, MAE, and R².
+- - Reduced 24-hour test RMSE relative to predicting the latest reading by 13.4% across Global cities with simple linear regression and 18.0% across Beijing stations with ridge regression. The neural network achieved the lowest Beijing RMSE at 1 and 6 hours.
+
 ### 🔹 [ASL Quick Draw - Clemson Hacks Winner](https://devpost.com/software/asl-quick-draw)
 * Real-time Wild West duel web application designed to gamify and accelerate American Sign Language learning.
 - Implemented computer vision gesture recognition to detect and evaluate user hand signs in real time
@@ -46,6 +53,7 @@ Automated ad campaign orchestration and multimodal compliance verification deplo
 - Built an object detection pipeline using Python and YOLO12 to generate bounding boxes and confidence scores from household imagery
 - Implemented human-in-the-loop verification via editable JSON schemas for detection correction and storage descriptions
 - Structured SQLite persistence and CLI search queries returning timestamped observations, orientation corrections, and normalized coordinates for robotic pick-and-place tasks
+
 
 ---
 
