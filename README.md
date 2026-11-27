@@ -23,7 +23,7 @@ Autonomous AI-driven DevOps agent enforcing secure bank coding standards and opt
 - Integrated intelligent merge-conflict resolution with human-in-the-loop validation, eliminating manual reconciliations
 - Developed a Jira Model Context Protocol (MCP) integration to monitor branch health and automatically log pull-request audits, improving release efficiency by 30%
 
-### 🔹 Data Science/ Machine Learning II Project
+### 🔹 [Data Science / Machine Learning II Project (CSCI 4380)](https://github.com/al69114/CSCI-4380-Project)
 * Machine Learning (November 2026)*
 - Analyzed 473,328 hourly air-quality records from six global cities in 2023 and 12 Beijing monitoring stations from 2013–2017 to forecast fine-particle pollution (PM2.5 concentration, measured in µg/m³) 1, 6, and 24 hours ahead.
 - Used Python, pandas, and NumPy to examine pollution patterns and evaluate forecasting inputs. For Global day-ahead forecasts, five PM2.5 features reduced linear regression’s validation error by 5.7% compared with all 14 predictors.
